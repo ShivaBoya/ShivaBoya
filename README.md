@@ -60,11 +60,20 @@
 ---
 
   
+ 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaBoya&layout=compact&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" />
-</p>
+<div align="center">
+
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="Shiva's GitHub stats" height="170"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaBoya&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" alt="Streak Stats" height="170"/>
+
+</div>
+
 
