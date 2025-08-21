@@ -59,7 +59,12 @@
 
 ---
 
+  
 ## 📊 GitHub Stats  
-![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaBoya&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical)  
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaBoya&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" />
+</p>
+
