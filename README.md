@@ -11,6 +11,7 @@
 
 - 💬 Ask me about *MERN, DSA*  
 - 📫 How to reach me *shivasiddu80@gmail.com*  
+- 🌐 Portfolio: [Visit Here](https://shiva-portfolio-beta.vercel.app/)  
 - ⚡ Fun fact *Think funny*  
 
 
@@ -52,7 +53,7 @@
 
 ## 🤝 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyashiva)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)]([your-portfolio-link](https://shiva-portfolio-beta.vercel.app/))  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasiddu80@gmail.com)  
 
 ---
