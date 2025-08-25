@@ -16,12 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=ShivaBoya&label=Profile%20views&color=0e75b6&style=flat" alt="ShivaBoya" /> 
 </p>
 
-<p align="center">
-- 💬 Ask me about *MERN, DSA*  
-- 📫 How to reach me: *shivasiddu80@gmail.com*  
-- 🌐 Portfolio: [Visit Here](https://shiva-portfolio-beta.vercel.app/)  
-- ⚡ Fun fact: *Think funny*
-</p>
+<p align="center">💬 Ask me about <i>MERN, DSA</i></p>
+<p align="center">📫 How to reach me: <i>shivasiddu80@gmail.com</i></p>
+<p align="center">🌐 Portfolio: <a href="https://shiva-portfolio-beta.vercel.app/">Visit Here</a></p>
+<p align="center">⚡ Fun fact: <i>Think funny</i></p>
 
 
 ---
