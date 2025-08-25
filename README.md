@@ -3,7 +3,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
   <!-- Image -->
   <div>
-    <img alt="Coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+    <img alt="Coding" width="200" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
   </div>
 
 <p align="center">
