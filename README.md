@@ -6,6 +6,13 @@
     <img alt="Coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
   </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00FFFF&background=B3FFE500&center=true&random=false&width=600&lines=Full+Stack+Web+Developer;600+Hours+of+Coding+Experience" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivaBoya&label=Profile%20views&color=0e75b6&style=flat" alt="ShivaBoya" /> 
+</p>
   <!-- Text on the side -->
   <div align="left">
     <p>💬 Ask me about <i>MERN, DSA</i></p>
@@ -16,13 +23,6 @@
   </div>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00FFFF&background=B3FFE500&center=true&random=false&width=600&lines=Full+Stack+Web+Developer;600+Hours+of+Coding+Experience" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivaBoya&label=Profile%20views&color=0e75b6&style=flat" alt="ShivaBoya" /> 
-</p>
 
 ---
 
