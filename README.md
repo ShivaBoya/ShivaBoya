@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Shiva B</h1>
+<h1 align="center">Hi 👋, I'm Shiva B
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00FFFF&background=B3FFE500&center=true&random=false&width=600&lines=Full+Stack+Web+Developer;600+Hours+of+Coding+Experience" alt="Typing SVG" />
 </p>
