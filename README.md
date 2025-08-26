@@ -82,7 +82,8 @@
   <br/>
 
 <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
  
 
 </div>
