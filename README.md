@@ -82,7 +82,7 @@
   <br/>
 
 <!-- Streak Stats -->
- <img src="https://leetcard.jacoblin.cool/ShivaBoya?theme=radical" alt="LeetCode Stats" height="170"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" alt="Streak Stats" height="170"/>
 
 
  
