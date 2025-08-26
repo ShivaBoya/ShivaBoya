@@ -82,7 +82,8 @@
   <br/>
 
 <!-- Streak Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="GitHub Stats"/>
+ <img src="https://leetcard.jacoblin.cool/ShivaBoya?theme=radical" alt="LeetCode Stats" height="170"/>
+
 
  
 
