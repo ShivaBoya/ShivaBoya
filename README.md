@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva B</h1>
+<h2 align="center">A Full Stack Developer from India, passionate about the MERN Stack. Skilled in building responsive and user-friendly interfaces, integrating RESTful APIs, and ensuring smooth user experiences.</h2>
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
   <!-- Image -->
