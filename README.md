@@ -1,93 +1,157 @@
-<h1 align="center">Hi 👋, I'm Shiva B</h1>
-<h4 align="center">A Full Stack Developer from India, passionate about the MERN Stack. Skilled in building responsive and user-friendly interfaces, integrating RESTful APIs, and ensuring smooth user experiences.</h4>
+<h1 align="center">Hi 👋, I'm Shiva Boya</h1>
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
-  <!-- Image -->
-  <div>
-    <img alt="Coding" width="500" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
-  </div>
+<h3 align="center">
+Full Stack Engineer | Backend-Focused MERN Developer | AWS & Real-Time Systems Enthusiast
+</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00FFFF&background=B3FFE500&center=true&random=false&width=600&lines=Full+Stack+Web+Developer;600+Hours+of+Coding+Experience" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivaBoya&label=Profile%20views&color=0e75b6&style=flat" alt="ShivaBoya" /> 
-</p>
-  <!-- Text on the side -->
-  <div align="left">
-    <p>💬 Ask me about <i>MERN, DSA</i></p>
-    <p>📫 How to reach me: <i>shivasiddu80@gmail.com</i></p>
-    <p>🌐 Portfolio: <a href="https://shiva-portfolio-beta.vercel.app/">Visit Here</a></p>
-    <p>⚡ Fun fact: <i>Think funny</i></p>
-    <p>Passionate about building innovative projects and continuously learning new technologies.</p>
-  </div>
-</div>
-
+<h4 align="center">
+Building scalable web applications, AI-powered platforms, real-time systems, and modern user experiences using MERN Stack, AWS, and modern cloud technologies.
+</h4>
 
 ---
-
-## 🚀 Tech Stack  
-
-### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) 
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-
-
-### Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-
----
-
-## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyashiva)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shiva-portfolio-beta.vercel.app/)
- 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasiddu80@gmail.com)  
-
----
-
-  
- ## 📊 GitHub Stats  
 
 <div align="center">
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaBoya&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-
-  <br/>
- <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="Shiva's GitHub stats" height="170"/>
-
-  <br/>
-
-<!-- Streak Stats -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" alt="Streak Stats" height="170"/>
-
-
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Focused+Developer;MERN+Stack+Specialist;AWS+%26+Real-Time+Systems+Engineer;Building+Scalable+Web+Applications;AI+Powered+Platform+Developer" alt="Typing SVG" />
 
 </div>
 
+---
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShivaBoya&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+
+- 🔭 Currently working as a **Full Stack Engineer at PropFTX**
+- 🌱 Building scalable backend systems, AI-powered platforms & real-time applications
+- ⚡ Experienced in **MERN Stack, AWS Lambda, REST APIs, WebSockets & Cloud Deployments**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, PostgreSQL, JWT, AWS**
+- 📫 Reach me at: **shivasiddu80@gmail.com**
+- 🌐 Portfolio: **https://portfolio-shiva-five.vercel.app/**
+- 🧠 Passionate about scalable architecture, performance optimization & modern UI systems
+- 🚀 Love building production-ready full-stack applications
+
+---
+
+# 💼 Professional Experience
+
+## 🟢 Full Stack Engineer — PropFTX
+📍 Bangalore | 🗓 Oct 2025 – Present
+
+- ⚡ Built high-performance data aggregation systems using **Node.js & AWS Lambda**
+- 🔐 Developed secure multi-device authentication systems using **JWT & session validation**
+- 📅 Designed event scheduling systems with frontend-backend synchronization
+- 💳 Built complete Resale Module including:
+  - Database Schema Design
+  - REST APIs
+  - Frontend Interfaces
+  - Payment Integration Workflows
+
+### Tech Used
+`Node.js` `React.js` `AWS Lambda` `PostgreSQL` `JWT` `REST APIs`
+
+---
+
+## 🟣 Full Stack Web Developer — Web3Today
+📍 Hyderabad | 🗓 Jun 2025 – Oct 2025
+
+- 🌐 Built scalable React.js applications with wallet integrations
+- 🎮 Developed Telegram Mini Apps with:
+  - Slash Game
+  - Crypto Wallet Integration
+  - Dynamic UI
+  - Admin Dashboard
+
+### Tech Used
+`React.js` `Node.js` `Web3 APIs` `Telegram Mini Apps`
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 Roamly – Smart AI Planner
+AI-powered outing planner with:
+- Real-time collaboration
+- Live chat & polls
+- AI recommendations
+- Group itinerary planning
+
+### Tech Stack
+`React.js` `Node.js` `Socket.IO` `MongoDB` `Express.js`
+
+---
+
+## 📄 AI Resume Builder
+Modern full-stack resume builder with:
+- AI-powered suggestions
+- Live resume preview
+- Razorpay payment integration
+- Premium resume templates
+
+### Tech Stack
+`React.js` `Node.js` `MongoDB` `Razorpay`
+
+---
+
+## 🎬 CineDash – Movie Dashboard
+Netflix-style movie platform featuring:
+- Dynamic movie recommendations
+- IMDb API integration
+- Modern UI/UX
+- Real-time search & filtering
+
+### Tech Stack
+`React.js` `REST APIs` `Tailwind CSS`
+
+---
+
+# 🛠 Tech Stack
+
+## 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## ⚙ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## ☁ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🔥 Core Skills
+
+```txt
+✔ REST API Development
+✔ Real-Time Systems
+✔ Scalable Backend Architecture
+✔ Authentication & Security
+✔ Payment Gateway Integration
+✔ Cloud Deployments
+✔ Performance Optimization
+✔ Responsive UI Development
+✔ Agile/Scrum Workflow
