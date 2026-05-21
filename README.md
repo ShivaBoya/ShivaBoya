@@ -213,7 +213,7 @@ Netflix-style movie dashboard platform with dynamic recommendations and modern U
 
 ### 🔗 Links
 - 🌐 Live Demo: https://movie-explorer-two-beta.vercel.app/
-- 💻 GitHub: https://github.com/ShivaBoya/RevisionUnit/tree/main/sprint1/Contest/MovieExplorer
+- 💻 GitHub: https://github.com/ShivaBoya/MovieFrontend
 
 ---
 
